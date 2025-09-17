@@ -167,7 +167,15 @@ export default function Dashboard() {
       </div>
 
       {/* Quick Actions */}
-      <div className="grid md:grid-cols-3 gap-6">
+      <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+        <Link to={createPageUrl("AIAssistant")}>
+          <div className="p-6 rounded-2xl bg-gradient-to-br from-cyan-600/80 to-blue-700/80 backdrop-blur-sm text-white hover:scale-105 transition-transform duration-300 cursor-pointer shadow-xl border border-cyan-500/30">
+            <DollarSign className="w-8 h-8 mb-3" />
+            <h3 className="text-xl font-bold mb-2">AI Assistant</h3>
+            <p className="text-cyan-100">Get real-time financial insights and analysis</p>
+          </div>
+        </Link>
+        
         <Link to={createPageUrl("MarketAnalysis")}>
           <div className="p-6 rounded-2xl bg-gradient-to-br from-purple-600/80 to-indigo-700/80 backdrop-blur-sm text-white hover:scale-105 transition-transform duration-300 cursor-pointer shadow-xl border border-purple-500/30">
             <BarChart3 className="w-8 h-8 mb-3" />

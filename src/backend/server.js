@@ -19,12 +19,23 @@ const alertRoutes = require('./routes/alerts');
 const marketRoutes = require('./routes/markets');
 const authRoutes = require('./routes/auth');
 const mlRoutes = require('./routes/ml');
+const aiChatRoutes = require('./routes/aiChat');
 
 const app = express();
 const PORT = process.env.PORT || 5000;
 
-// Connect to MongoDB
-connectDB();
+// Connect to MongoDB (optional in development)
+if (process.env.NODE_ENV !== 'production') {
+  logger.info('📊 Running in development mode with mock data');
+  logger.info('💡 To use MongoDB, set MONGODB_URI in .env file');
+} else {
+  connectDB().then(() => {
+    logger.info('🗄️ MongoDB connected successfully');
+  }).catch(err => {
+    logger.error('Database connection failed in production:', err.message);
+    process.exit(1);
+  });
+}
 
 // Security middleware
 app.use(helmet());
@@ -95,6 +106,7 @@ app.use('/api/news', newsRoutes);
 app.use('/api/alerts', alertRoutes);
 app.use('/api/markets', marketRoutes);
 app.use('/api/ml', mlRoutes);
+app.use('/api/chat', aiChatRoutes);
 
 // Welcome route
 app.get('/', (req, res) => {

@@ -7,6 +7,7 @@ import AddTicker from './pages/AddTicker';
 import Alerts from './pages/Alerts';
 import NewsCenter from './pages/NewsCenter';
 import MarketAnalysis from './pages/MarketAnalysis';
+import AIAssistant from './pages/AIAssistant';
 import './App.css';
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
             <Route path="/alerts" element={<Alerts />} />
             <Route path="/news-center" element={<NewsCenter />} />
             <Route path="/market-analysis" element={<MarketAnalysis />} />
+            <Route path="/ai-assistant" element={<AIAssistant />} />
           </Routes>
         </Layout>
         <Toaster

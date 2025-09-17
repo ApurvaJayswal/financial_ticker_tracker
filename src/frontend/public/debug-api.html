@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TickerTracker API Debug</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 20px; 
+            background: #1a1a1a; 
+            color: #fff; 
+        }
+        .container { 
+            max-width: 800px; 
+            margin: 0 auto; 
+        }
+        .test-result { 
+            padding: 10px; 
+            margin: 10px 0; 
+            border-radius: 5px; 
+        }
+        .success { 
+            background: #1f4321; 
+            border: 1px solid #4ade80; 
+        }
+        .error { 
+            background: #4a1d1d; 
+            border: 1px solid #ef4444; 
+        }
+        button { 
+            background: #3b82f6; 
+            color: white; 
+            border: none; 
+            padding: 10px 20px; 
+            border-radius: 5px; 
+            cursor: pointer; 
+            margin: 5px; 
+        }
+        button:hover { 
+            background: #2563eb; 
+        }
+        #results { 
+            margin-top: 20px; 
+        }
+        pre { 
+            background: #2d2d2d; 
+            padding: 10px; 
+            border-radius: 5px; 
+            overflow-x: auto; 
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔧 TickerTracker API Debug</h1>
+        <p>This page tests the connection between the frontend and backend API.</p>
+        
+        <div>
+            <button onclick="testHealthCheck()">Test Health Check</button>
+            <button onclick="testPopularQuestions()">Test Popular Questions</button>
+            <button onclick="testAIChat()">Test AI Chat</button>
+            <button onclick="testAssistantStatus()">Test Assistant Status</button>
+            <button onclick="clearResults()">Clear Results</button>
+        </div>
+        
+        <div id="results"></div>
+    </div>
+
+    <script>
+        const API_URL = 'http://localhost:5000/api';
+        const resultsDiv = document.getElementById('results');
+        
+        function addResult(title, success, data, error) {
+            const div = document.createElement('div');
+            div.className = `test-result ${success ? 'success' : 'error'}`;
+            
+            const timestamp = new Date().toLocaleTimeString();
+            div.innerHTML = `
+                <h3>${success ? '✅' : '❌'} ${title} (${timestamp})</h3>
+                ${error ? `<p><strong>Error:</strong> ${error}</p>` : ''}
+                ${data ? `<pre>${JSON.stringify(data, null, 2)}</pre>` : ''}
+            `;
+            
+            resultsDiv.insertBefore(div, resultsDiv.firstChild);
+        }
+        
+        function clearResults() {
+            resultsDiv.innerHTML = '';
+        }
+        
+        async function testHealthCheck() {
+            try {
+                console.log('Testing health check...');
+                const response = await fetch('http://localhost:5000/health');
+                const data = await response.json();
+                
+                if (response.ok) {
+                    addResult('Health Check', true, data);
+                } else {
+                    addResult('Health Check', false, data, `HTTP ${response.status}`);
+                }
+            } catch (error) {
+                addResult('Health Check', false, null, error.message);
+            }
+        }
+        
+        async function testPopularQuestions() {
+            try {
+                console.log('Testing popular questions...');
+                const response = await fetch(`${API_URL}/chat/popular-questions`);
+                const data = await response.json();
+                
+                if (response.ok && data.success) {
+                    addResult('Popular Questions', true, {
+                        categoriesCount: data.data.categories.length,
+                        totalQuestions: data.data.totalQuestions,
+                        sample: data.data.categories[0]
+                    });
+                } else {
+                    addResult('Popular Questions', false, data, `HTTP ${response.status}`);
+                }
+            } catch (error) {
+                addResult('Popular Questions', false, null, error.message);
+            }
+        }
+        
+        async function testAIChat() {
+            try {
+                console.log('Testing AI chat...');
+                const response = await fetch(`${API_URL}/chat/ask`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        question: 'Test message from debug page',
+                        userId: 'debug-user',
+                        conversationId: 'debug-conv',
+                        includeMarketData: true,
+                        includeNews: true
+                    })
+                });
+                
+                const data = await response.json();
+                
+                if (response.ok && data.success) {
+                    addResult('AI Chat', true, {
+                        responsePreview: data.data.response.substring(0, 200) + '...',
+                        metadata: data.data.metadata
+                    });
+                } else {
+                    addResult('AI Chat', false, data, `HTTP ${response.status}`);
+                }
+            } catch (error) {
+                addResult('AI Chat', false, null, error.message);
+            }
+        }
+        
+        async function testAssistantStatus() {
+            try {
+                console.log('Testing assistant status...');
+                const response = await fetch(`${API_URL}/chat/status`);
+                const data = await response.json();
+                
+                if (response.ok && data.success) {
+                    addResult('Assistant Status', true, data.data);
+                } else {
+                    addResult('Assistant Status', false, data, `HTTP ${response.status}`);
+                }
+            } catch (error) {
+                addResult('Assistant Status', false, null, error.message);
+            }
+        }
+        
+        // Auto-run health check on page load
+        window.addEventListener('load', () => {
+            testHealthCheck();
+        });
+    </script>
+</body>
+</html>

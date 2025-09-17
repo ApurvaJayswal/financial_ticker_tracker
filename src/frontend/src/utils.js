@@ -7,6 +7,7 @@ export const createPageUrl = (pageName) => {
     MarketAnalysis: '/market-analysis',
     NewsCenter: '/news-center',
     Alerts: '/alerts',
+    AIAssistant: '/ai-assistant',
   };
   return routes[pageName] || '/dashboard';
 };

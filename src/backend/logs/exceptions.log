@@ -185,3 +185,99 @@
 [31m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
 [31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
 [31m    at node:internal/main/run_main_module:36:49[39m
+2025-09-18 02:19:48:1948 [31merror[39m: [31muncaughtException: listen EADDRINUSE: address already in use :::5000[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1937:16)[39m
+[31m    at listenInCluster (node:net:1994:12)[39m
+[31m    at Server.listen (node:net:2099:7)[39m
+[31m    at Function.listen (D:\TickerTracker-DataQuest\node_modules\express\lib\application.js:635:24)[39m
+[31m    at Object.<anonymous> (D:\TickerTracker-DataQuest\src\backend\server.js:125:20)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-09-18 02:20:51:2051 [31merror[39m: [31muncaughtException: listen EADDRINUSE: address already in use :::5000[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1937:16)[39m
+[31m    at listenInCluster (node:net:1994:12)[39m
+[31m    at Server.listen (node:net:2099:7)[39m
+[31m    at Function.listen (D:\TickerTracker-DataQuest\node_modules\express\lib\application.js:635:24)[39m
+[31m    at Object.<anonymous> (D:\TickerTracker-DataQuest\src\backend\server.js:132:20)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-09-18 02:22:20:2220 [31merror[39m: [31muncaughtException: listen EADDRINUSE: address already in use :::5000[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1937:16)[39m
+[31m    at listenInCluster (node:net:1994:12)[39m
+[31m    at Server.listen (node:net:2099:7)[39m
+[31m    at Function.listen (D:\TickerTracker-DataQuest\node_modules\express\lib\application.js:635:24)[39m
+[31m    at Object.<anonymous> (D:\TickerTracker-DataQuest\src\backend\server.js:132:20)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-09-18 02:22:47:2247 [31merror[39m: [31muncaughtException: listen EADDRINUSE: address already in use :::5000[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1937:16)[39m
+[31m    at listenInCluster (node:net:1994:12)[39m
+[31m    at Server.listen (node:net:2099:7)[39m
+[31m    at Function.listen (D:\TickerTracker-DataQuest\node_modules\express\lib\application.js:635:24)[39m
+[31m    at Object.<anonymous> (D:\TickerTracker-DataQuest\src\backend\server.js:132:20)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-09-18 02:28:05:285 [31merror[39m: [31muncaughtException: listen EADDRINUSE: address already in use :::5000[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1937:16)[39m
+[31m    at listenInCluster (node:net:1994:12)[39m
+[31m    at Server.listen (node:net:2099:7)[39m
+[31m    at Function.listen (D:\TickerTracker-DataQuest\node_modules\express\lib\application.js:635:24)[39m
+[31m    at Object.<anonymous> (D:\TickerTracker-DataQuest\src\backend\server.js:132:20)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-09-18 02:29:22:2922 [31merror[39m: [31muncaughtException: listen EADDRINUSE: address already in use :::5000[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1937:16)[39m
+[31m    at listenInCluster (node:net:1994:12)[39m
+[31m    at Server.listen (node:net:2099:7)[39m
+[31m    at Function.listen (D:\TickerTracker-DataQuest\node_modules\express\lib\application.js:635:24)[39m
+[31m    at Object.<anonymous> (D:\TickerTracker-DataQuest\src\backend\server.js:132:20)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-09-18 02:31:39:3139 [31merror[39m: [31muncaughtException: listen EADDRINUSE: address already in use :::5000[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1937:16)[39m
+[31m    at listenInCluster (node:net:1994:12)[39m
+[31m    at Server.listen (node:net:2099:7)[39m
+[31m    at Function.listen (D:\TickerTracker-DataQuest\node_modules\express\lib\application.js:635:24)[39m
+[31m    at Object.<anonymous> (D:\TickerTracker-DataQuest\src\backend\minimal-server.js:56:20)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-09-18 02:37:01:371 [31merror[39m: [31muncaughtException: listen EADDRINUSE: address already in use :::5000[39m
+[31mError: listen EADDRINUSE: address already in use :::5000[39m
+[31m    at Server.setupListenHandle [as _listen2] (node:net:1937:16)[39m
+[31m    at listenInCluster (node:net:1994:12)[39m
+[31m    at Server.listen (node:net:2099:7)[39m
+[31m    at Function.listen (D:\TickerTracker-DataQuest\node_modules\express\lib\application.js:635:24)[39m
+[31m    at Object.<anonymous> (D:\TickerTracker-DataQuest\src\backend\server.js:135:20)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m

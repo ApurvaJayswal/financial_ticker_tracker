@@ -8,6 +8,10 @@ const connectDB = async () => {
       : process.env.MONGODB_URI;
 
     if (!mongoUri) {
+      if (process.env.NODE_ENV !== 'production') {
+        logger.warn('⚠️  MongoDB URI not provided - running in mock data mode');
+        return Promise.resolve(null);
+      }
       throw new Error('MongoDB URI not provided in environment variables');
     }
 
@@ -46,7 +50,7 @@ const connectDB = async () => {
 
     return conn;
   } catch (error) {
-    logger.error('Database connection failed:', error.message);
+    logger.error('Database connection failed:', {message: error.message});
     
     // In development, continue without database
     if (process.env.NODE_ENV !== 'production') {
@@ -56,8 +60,8 @@ const connectDB = async () => {
       return null;
     }
     
-    // Exit process with failure in production
-    process.exit(1);
+    // In production, re-throw the error to be handled by server.js
+    throw error;
   }
 };
 
