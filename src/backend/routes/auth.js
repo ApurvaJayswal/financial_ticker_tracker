@@ -1,0 +1,13 @@
+const express = require('express');
+const router = express.Router();
+
+// Simple placeholder routes - will be implemented later
+router.get('/', (req, res) => {
+  res.json({
+    success: true,
+    data: [],
+    message: 'Authentication endpoints will be implemented'
+  });
+});
+
+module.exports = router;

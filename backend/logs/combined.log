@@ -1,5 +1,0 @@
-{"level":"info","message":"🚀 TickerTracker API Server running on port 5000","service":"ticker-tracker-api","timestamp":"2025-09-17 01:41:35"}
-{"level":"info","message":"🌍 Environment: development","service":"ticker-tracker-api","timestamp":"2025-09-17 01:41:35"}
-{"level":"info","message":"📊 Health check: http://localhost:5000/health","service":"ticker-tracker-api","timestamp":"2025-09-17 01:41:35"}
-{"level":"info","message":"📖 API docs: http://localhost:5000/api","service":"ticker-tracker-api","timestamp":"2025-09-17 01:41:35"}
-{"level":"info","message":"SIGINT received, shutting down gracefully...","service":"ticker-tracker-api","timestamp":"2025-09-17 01:50:57"}

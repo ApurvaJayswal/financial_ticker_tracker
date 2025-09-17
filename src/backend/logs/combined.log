@@ -1,0 +1,142 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m🚀 Server running in development mode on port 5000\u001b[39m","timestamp":"2025-09-17 19:59:57:5957"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m📊 API Documentation available at http://localhost:5000/api/docs\u001b[39m","timestamp":"2025-09-17 19:59:57:5957"}
+{"level":"\u001b[31merror\u001b[39m","message":"\u001b[31mDatabase connection failed:\u001b[39m","timestamp":"2025-09-17 19:59:57:5957"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"\u001b[33m⚠️  Running without database connection in development mode\u001b[39m","timestamp":"2025-09-17 19:59:57:5957"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m💡 To fix this, install MongoDB locally or update MONGODB_URI in .env\u001b[39m","timestamp":"2025-09-17 19:59:57:5957"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m🚀 Server will continue running with mock data for development\u001b[39m","timestamp":"2025-09-17 19:59:57:5957"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m🚀 Server running in development mode on port 5000\u001b[39m","timestamp":"2025-09-17 21:46:34:4634"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m📊 API Documentation available at http://localhost:5000/api/docs\u001b[39m","timestamp":"2025-09-17 21:46:34:4634"}
+{"level":"\u001b[31merror\u001b[39m","message":"\u001b[31mDatabase connection failed:\u001b[39m","timestamp":"2025-09-17 21:46:34:4634"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"\u001b[33m⚠️  Running without database connection in development mode\u001b[39m","timestamp":"2025-09-17 21:46:34:4634"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m💡 To fix this, install MongoDB locally or update MONGODB_URI in .env\u001b[39m","timestamp":"2025-09-17 21:46:34:4634"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m🚀 Server will continue running with mock data for development\u001b[39m","timestamp":"2025-09-17 21:46:34:4634"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:30:5130"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:32:5132"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:33:5133"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:33:5133"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:33:5133"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:33:5133"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:33:5133"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:33:5133"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:33:5133"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:33:5133"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:34:5134"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:34:5134"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:34:5134"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:34:5134"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:34:5134"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:34:5134"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:34:5134"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:34:5134"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:34:5134"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:34:5134"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:34:5134"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:34:5134"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:34:5134"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:34:5134"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:36:5136"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:37:5137"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:37:5137"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:37:5137"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:45:5145"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:53:5153"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:54:5154"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:55:5155"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:55:5155"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:56:5156"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:56:5156"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:56:5156"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:56:5156"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:57:5157"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 21:51:57:5157"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 21:52:06:526"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m🚀 Server running in development mode on port 5000\u001b[39m","timestamp":"2025-09-17 21:59:33:5933"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m📊 API Documentation available at http://localhost:5000/api/docs\u001b[39m","timestamp":"2025-09-17 21:59:33:5933"}
+{"level":"\u001b[31merror\u001b[39m","message":"\u001b[31mDatabase connection failed:\u001b[39m","timestamp":"2025-09-17 21:59:33:5933"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"\u001b[33m⚠️  Running without database connection in development mode\u001b[39m","timestamp":"2025-09-17 21:59:33:5933"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m💡 To fix this, install MongoDB locally or update MONGODB_URI in .env\u001b[39m","timestamp":"2025-09-17 21:59:33:5933"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m🚀 Server will continue running with mock data for development\u001b[39m","timestamp":"2025-09-17 21:59:33:5933"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m[API] GET /api/tickers\u001b[39m","query":{},"timestamp":"2025-09-17 21:59:49:5949"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m[API] Search tickers (mock data)\u001b[39m","query":"apple","results":1,"timestamp":"2025-09-17 21:59:55:5955"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m[API] GET /api/tickers\u001b[39m","query":{"market":"crypto"},"timestamp":"2025-09-17 22:00:00:00"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m[API] GET market stats (mock data)\u001b[39m","timestamp":"2025-09-17 22:00:07:07"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m[API] GET /api/tickers\u001b[39m","query":{"limit":"50"},"timestamp":"2025-09-17 22:00:19:019"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m[API] GET /api/tickers\u001b[39m","query":{"limit":"50"},"timestamp":"2025-09-17 22:00:19:019"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m[API] GET /api/tickers\u001b[39m","query":{"limit":"50"},"timestamp":"2025-09-17 22:00:39:039"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m[API] GET /api/tickers\u001b[39m","query":{"limit":"50"},"timestamp":"2025-09-17 22:00:39:039"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m🚀 Server running in development mode on port 5000\u001b[39m","timestamp":"2025-09-17 22:12:33:1233"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m📊 API Documentation available at http://localhost:5000/api/docs\u001b[39m","timestamp":"2025-09-17 22:12:33:1233"}
+{"level":"\u001b[31merror\u001b[39m","message":"\u001b[31mDatabase connection failed:\u001b[39m","timestamp":"2025-09-17 22:12:33:1233"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"\u001b[33m⚠️  Running without database connection in development mode\u001b[39m","timestamp":"2025-09-17 22:12:33:1233"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m💡 To fix this, install MongoDB locally or update MONGODB_URI in .env\u001b[39m","timestamp":"2025-09-17 22:12:33:1233"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m🚀 Server will continue running with mock data for development\u001b[39m","timestamp":"2025-09-17 22:12:33:1233"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m🚀 Server running in development mode on port 5000\u001b[39m","timestamp":"2025-09-17 22:27:40:2740"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m📊 API Documentation available at http://localhost:5000/api/docs\u001b[39m","timestamp":"2025-09-17 22:27:40:2740"}
+{"level":"\u001b[31merror\u001b[39m","message":"\u001b[31mDatabase connection failed:\u001b[39m","timestamp":"2025-09-17 22:27:40:2740"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"\u001b[33m⚠️  Running without database connection in development mode\u001b[39m","timestamp":"2025-09-17 22:27:40:2740"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m💡 To fix this, install MongoDB locally or update MONGODB_URI in .env\u001b[39m","timestamp":"2025-09-17 22:27:40:2740"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m🚀 Server will continue running with mock data for development\u001b[39m","timestamp":"2025-09-17 22:27:40:2740"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 22:55:56:5556"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 22:55:57:5557"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m🚀 Server running in development mode on port 5000\u001b[39m","timestamp":"2025-09-17 22:58:26:5826"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m📊 API Documentation available at http://localhost:5000/api/docs\u001b[39m","timestamp":"2025-09-17 22:58:26:5826"}
+{"level":"\u001b[31merror\u001b[39m","message":"\u001b[31mDatabase connection failed:\u001b[39m","timestamp":"2025-09-17 22:58:26:5826"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"\u001b[33m⚠️  Running without database connection in development mode\u001b[39m","timestamp":"2025-09-17 22:58:26:5826"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m💡 To fix this, install MongoDB locally or update MONGODB_URI in .env\u001b[39m","timestamp":"2025-09-17 22:58:26:5826"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m🚀 Server will continue running with mock data for development\u001b[39m","timestamp":"2025-09-17 22:58:26:5826"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m🚀 Server running in development mode on port 5000\u001b[39m","timestamp":"2025-09-17 23:03:51:351"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m📊 API Documentation available at http://localhost:5000/api/docs\u001b[39m","timestamp":"2025-09-17 23:03:51:351"}
+{"level":"\u001b[31merror\u001b[39m","message":"\u001b[31mDatabase connection failed:\u001b[39m","timestamp":"2025-09-17 23:03:51:351"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"\u001b[33m⚠️  Running without database connection in development mode\u001b[39m","timestamp":"2025-09-17 23:03:51:351"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m💡 To fix this, install MongoDB locally or update MONGODB_URI in .env\u001b[39m","timestamp":"2025-09-17 23:03:51:351"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m🚀 Server will continue running with mock data for development\u001b[39m","timestamp":"2025-09-17 23:03:51:351"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m[API] GET /api/tickers\u001b[39m","query":{"limit":"50"},"timestamp":"2025-09-17 23:05:16:516"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m[API] GET /api/tickers\u001b[39m","query":{"limit":"50"},"timestamp":"2025-09-17 23:05:16:516"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m[API] GET /api/tickers\u001b[39m","query":{"limit":"50"},"timestamp":"2025-09-17 23:06:08:68"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m[API] GET /api/tickers\u001b[39m","query":{"limit":"50"},"timestamp":"2025-09-17 23:06:08:68"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m[API] GET /api/tickers\u001b[39m","query":{"limit":"50"},"timestamp":"2025-09-17 23:06:10:610"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m[API] GET /api/tickers\u001b[39m","query":{"limit":"50"},"timestamp":"2025-09-17 23:06:10:610"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m[API] GET /api/tickers\u001b[39m","query":{"limit":"50"},"timestamp":"2025-09-17 23:07:10:710"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m[API] GET /api/tickers\u001b[39m","query":{"limit":"50"},"timestamp":"2025-09-17 23:07:19:719"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m[API] GET /api/tickers\u001b[39m","query":{"limit":"50"},"timestamp":"2025-09-17 23:08:37:837"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32m[API] GET /api/tickers\u001b[39m","query":{"limit":"50"},"timestamp":"2025-09-17 23:08:37:837"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mSIGINT received. Shutting down gracefully...\u001b[39m","timestamp":"2025-09-17 23:08:55:855"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mProcess terminated\u001b[39m","timestamp":"2025-09-17 23:08:55:855"}

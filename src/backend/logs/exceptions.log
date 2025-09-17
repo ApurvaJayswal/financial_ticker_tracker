@@ -1,0 +1,187 @@
+2025-09-17 14:58:09:589 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (D:\Ticket-Tracker-DataQuest\backend\server.js:27:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-09-17 14:59:04:594 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (D:\Ticket-Tracker-DataQuest\backend\server.js:27:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-09-17 14:59:37:5937 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (D:\Ticket-Tracker-DataQuest\backend\server.js:27:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-09-17 15:00:06:06 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (D:\Ticket-Tracker-DataQuest\backend\server.js:27:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-09-17 15:03:29:329 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (D:\Ticket-Tracker-DataQuest\backend\server.js:27:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-09-17 15:57:28:5728 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (D:\Ticket-Tracker-DataQuest\backend\server.js:27:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-09-17 16:01:36:136 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (D:\Ticket-Tracker-DataQuest\backend\server.js:27:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-09-17 16:02:27:227 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (D:\Ticket-Tracker-DataQuest\backend\server.js:27:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-09-17 16:11:57:1157 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (D:\Ticket-Tracker-DataQuest\backend\server.js:27:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-09-17 16:14:24:1424 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (D:\Ticket-Tracker-DataQuest\backend\server.js:27:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-09-17 18:41:37:4137 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (D:\Ticket-Tracker-DataQuest\backend\server.js:27:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-09-17 18:55:03:553 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (D:\Ticket-Tracker-DataQuest\backend\server.js:27:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-09-17 18:55:24:5524 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (D:\Ticket-Tracker-DataQuest\backend\server.js:27:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-09-17 18:55:29:5529 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (D:\Ticket-Tracker-DataQuest\backend\server.js:27:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-09-17 19:36:52:3652 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (D:\TickerTracker-DataQuest\backend\server.js:27:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-09-17 19:37:58:3758 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (D:\TickerTracker-DataQuest\backend\server.js:27:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-09-17 19:41:59:4159 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (D:\TickerTracker-DataQuest\backend\server.js:27:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1554:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
